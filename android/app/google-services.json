@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050572433893",
+    "project_id": "ishop-ea5c7",
+    "storage_bucket": "ishop-ea5c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050572433893:android:faa271cc83faab21ad270c",
+        "android_client_info": {
+          "package_name": "com.basta.quadra_soft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050572433893-gu10tqnkj5vo185iotcpu9d0r706c84c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAivUbeUKWlPwkVyNUthIJG3jy02SCANkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050572433893-gu10tqnkj5vo185iotcpu9d0r706c84c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

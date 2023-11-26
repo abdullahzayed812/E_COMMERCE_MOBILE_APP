@@ -1,0 +1,25 @@
+export const COLORS = {
+  mainColor: "#232323",
+  lightMain: "#8f06e4",
+  white: "#fff",
+  gray: "rgba(0,0,0,.4)",
+  mediumGray: "#f7f7f7",
+  textLight: "#777",
+  textDark: "#333",
+  black: "#000",
+  blue: "#4267b2",
+  lightBlue: "#e8f0fe",
+
+  green: "#60c5a8",
+  green2: "#039a83",
+  red: "#ff2f68",
+  lightRed: "#ff4f7e",
+  yellow: "#232323",
+  pink: "#ff4c98",
+  gold: "gold",
+  line: "#282C35",
+  darkGray: "#999999",
+
+  sidebar1: "#02000d",
+  sidebar2: "#07203f",
+};
